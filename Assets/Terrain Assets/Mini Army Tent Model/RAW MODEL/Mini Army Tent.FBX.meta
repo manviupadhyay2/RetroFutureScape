@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 4c107f7fc7782154a982736b25b8bd70
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: FabricTent
+    100002: //RootNode
+    100004: Tent_head
+    100006: Tent_Pole_1
+    100008: Tent_Pole_2
+    100010: Tent_Pole_3
+    100012: Tent_Pole_4
+    100014: Tent_Pole_5
+    100016: Tent_Pole_6
+    100018: Tent_Pole_7
+    100020: Tent_Pole_8
+    400000: FabricTent
+    400002: //RootNode
+    400004: Tent_head
+    400006: Tent_Pole_1
+    400008: Tent_Pole_2
+    400010: Tent_Pole_3
+    400012: Tent_Pole_4
+    400014: Tent_Pole_5
+    400016: Tent_Pole_6
+    400018: Tent_Pole_7
+    400020: Tent_Pole_8
+    2100000: Tent Pole
+    2100002: Tent head
+    2100004: TentFabric_W
+    2100006: TentFabric_R
+    2300000: FabricTent
+    2300002: Tent_head
+    2300004: Tent_Pole_1
+    2300006: Tent_Pole_2
+    2300008: Tent_Pole_3
+    2300010: Tent_Pole_4
+    2300012: Tent_Pole_5
+    2300014: Tent_Pole_6
+    2300016: Tent_Pole_7
+    2300018: Tent_Pole_8
+    3300000: FabricTent
+    3300002: Tent_head
+    3300004: Tent_Pole_1
+    3300006: Tent_Pole_2
+    3300008: Tent_Pole_3
+    3300010: Tent_Pole_4
+    3300012: Tent_Pole_5
+    3300014: Tent_Pole_6
+    3300016: Tent_Pole_7
+    3300018: Tent_Pole_8
+    4300000: Tent_Pole_8
+    4300002: Tent_Pole_1
+    4300004: Tent_Pole_2
+    4300006: Tent_Pole_3
+    4300008: Tent_Pole_4
+    4300010: Tent_Pole_5
+    4300012: Tent_Pole_6
+    4300014: Tent_Pole_7
+    4300016: Tent_head
+    4300018: FabricTent
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tent Pole
+    second: {fileID: 2100000, guid: 833d77e6e9365834693a30d65e63ff30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TentFabric_R
+    second: {fileID: 2100000, guid: 64bcae0d5c1f1df458ec7668d3304f77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TentFabric_W
+    second: {fileID: 2100000, guid: bf82657d7f259a74cb769152a17efb56, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
